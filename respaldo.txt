@@ -1,0 +1,14 @@
+
+ BACKUP TASK " Respaldo-31-01-2025 14:37:34 "
+   Executed between 31-01-2025 14:37:34 and 14:37:35 with "  -t -g -co  " Backup Options.
+   Database File  : C:\Users\usuario\Desktop\Programa\AbarrotesPDV\db\pdvdata.fdb
+   Database was validated (before backup) by using gfix with -v -n switches. No validation error was found..
+   New Backup File created as "C:\Users\usuario\Desktop\Programa\AbarrotesPDV\respaldos\respaldo-31-01-25.fbk" on the Backup Dir.
+   Backup FileSize = 582.656 Byte 
+   Mirroring #1 is disable..
+   Mirroring #2 is disable..
+   Mirroring #3 is disable..
+   There is no out-of-criteria backup file to delete in the Backup Dir
+   External file execution is Disabled.
+   EMail Notification is enabled. (No email notification has been sended because there is noting to notify.)
+Ended!

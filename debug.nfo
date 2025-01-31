@@ -1,0 +1,464 @@
+[31/01/2025 13:30:02]31/01/2025 13:30:02>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '171667' 
+[31/01/2025 13:30:02]31/01/2025 13:30:02>SELECT descripcion FROM productos WHERE componentes LIKE '%171667%'
+[31/01/2025 13:30:02]31/01/2025 13:30:02>SELECT descripcion FROM productos WHERE componentes LIKE '%171667%'
+[31/01/2025 13:30:02]31/01/2025 13:30:02>DELETE FROM productos WHERE (Codigo = '171667')
+[31/01/2025 13:30:07]31/01/2025 13:30:07>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '849746' 
+[31/01/2025 13:30:09]31/01/2025 13:30:09>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '849746' 
+[31/01/2025 13:30:09]31/01/2025 13:30:09>SELECT descripcion FROM productos WHERE componentes LIKE '%849746%'
+[31/01/2025 13:30:10]31/01/2025 13:30:10>SELECT descripcion FROM productos WHERE componentes LIKE '%849746%'
+[31/01/2025 13:30:10]31/01/2025 13:30:10>DELETE FROM productos WHERE (Codigo = '849746')
+[31/01/2025 13:30:16]31/01/2025 13:30:16>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '477785' 
+[31/01/2025 13:30:17]31/01/2025 13:30:17>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '477785' 
+[31/01/2025 13:30:17]31/01/2025 13:30:17>SELECT descripcion FROM productos WHERE componentes LIKE '%477785%'
+[31/01/2025 13:30:17]31/01/2025 13:30:17>SELECT descripcion FROM productos WHERE componentes LIKE '%477785%'
+[31/01/2025 13:30:17]31/01/2025 13:30:17>DELETE FROM productos WHERE (Codigo = '477785')
+[31/01/2025 13:30:21]31/01/2025 13:30:21>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '442169' 
+[31/01/2025 13:30:22]31/01/2025 13:30:22>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '442169' 
+[31/01/2025 13:30:22]31/01/2025 13:30:22>SELECT descripcion FROM productos WHERE componentes LIKE '%442169%'
+[31/01/2025 13:30:22]31/01/2025 13:30:22>SELECT descripcion FROM productos WHERE componentes LIKE '%442169%'
+[31/01/2025 13:30:23]31/01/2025 13:30:23>DELETE FROM productos WHERE (Codigo = '442169')
+[31/01/2025 13:30:27]31/01/2025 13:30:27>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '115282' 
+[31/01/2025 13:30:28]31/01/2025 13:30:28>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '115282' 
+[31/01/2025 13:30:28]31/01/2025 13:30:28>SELECT descripcion FROM productos WHERE componentes LIKE '%115282%'
+[31/01/2025 13:30:28]31/01/2025 13:30:28>SELECT descripcion FROM productos WHERE componentes LIKE '%115282%'
+[31/01/2025 13:30:28]31/01/2025 13:30:28>DELETE FROM productos WHERE (Codigo = '115282')
+[31/01/2025 13:30:32]31/01/2025 13:30:32>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '83764' 
+[31/01/2025 13:30:33]31/01/2025 13:30:33>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '83764' 
+[31/01/2025 13:30:33]31/01/2025 13:30:33>SELECT descripcion FROM productos WHERE componentes LIKE '%83764%'
+[31/01/2025 13:30:33]31/01/2025 13:30:33>SELECT descripcion FROM productos WHERE componentes LIKE '%83764%'
+[31/01/2025 13:30:33]31/01/2025 13:30:33>DELETE FROM productos WHERE (Codigo = '83764')
+[31/01/2025 13:30:37]31/01/2025 13:30:37>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '652695' 
+[31/01/2025 13:30:38]31/01/2025 13:30:38>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '652695' 
+[31/01/2025 13:30:38]31/01/2025 13:30:38>SELECT descripcion FROM productos WHERE componentes LIKE '%652695%'
+[31/01/2025 13:30:39]31/01/2025 13:30:39>SELECT descripcion FROM productos WHERE componentes LIKE '%652695%'
+[31/01/2025 13:30:39]31/01/2025 13:30:39>DELETE FROM productos WHERE (Codigo = '652695')
+[31/01/2025 13:30:42]31/01/2025 13:30:42>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '818843' 
+[31/01/2025 13:30:44]31/01/2025 13:30:44>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '818843' 
+[31/01/2025 13:30:44]31/01/2025 13:30:44>SELECT descripcion FROM productos WHERE componentes LIKE '%818843%'
+[31/01/2025 13:30:44]31/01/2025 13:30:44>SELECT descripcion FROM productos WHERE componentes LIKE '%818843%'
+[31/01/2025 13:30:44]31/01/2025 13:30:44>DELETE FROM productos WHERE (Codigo = '818843')
+[31/01/2025 13:30:48]31/01/2025 13:30:48>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '959587' 
+[31/01/2025 13:30:49]31/01/2025 13:30:49>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '959587' 
+[31/01/2025 13:30:49]31/01/2025 13:30:49>SELECT descripcion FROM productos WHERE componentes LIKE '%959587%'
+[31/01/2025 13:30:49]31/01/2025 13:30:49>SELECT descripcion FROM productos WHERE componentes LIKE '%959587%'
+[31/01/2025 13:30:49]31/01/2025 13:30:49>DELETE FROM productos WHERE (Codigo = '959587')
+[31/01/2025 13:30:53]31/01/2025 13:30:53>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '75688' 
+[31/01/2025 13:30:54]31/01/2025 13:30:54>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '75688' 
+[31/01/2025 13:30:54]31/01/2025 13:30:54>SELECT descripcion FROM productos WHERE componentes LIKE '%75688%'
+[31/01/2025 13:30:55]31/01/2025 13:30:55>SELECT descripcion FROM productos WHERE componentes LIKE '%75688%'
+[31/01/2025 13:30:55]31/01/2025 13:30:55>DELETE FROM productos WHERE (Codigo = '75688')
+[31/01/2025 13:30:58]31/01/2025 13:30:58>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '147583' 
+[31/01/2025 13:31:00]31/01/2025 13:31:00>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '147583' 
+[31/01/2025 13:31:00]31/01/2025 13:31:00>SELECT descripcion FROM productos WHERE componentes LIKE '%147583%'
+[31/01/2025 13:31:00]31/01/2025 13:31:00>SELECT descripcion FROM productos WHERE componentes LIKE '%147583%'
+[31/01/2025 13:31:00]31/01/2025 13:31:00>DELETE FROM productos WHERE (Codigo = '147583')
+[31/01/2025 13:31:04]31/01/2025 13:31:04>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '967470' 
+[31/01/2025 13:31:05]31/01/2025 13:31:05>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '967470' 
+[31/01/2025 13:31:05]31/01/2025 13:31:05>SELECT descripcion FROM productos WHERE componentes LIKE '%967470%'
+[31/01/2025 13:31:05]31/01/2025 13:31:05>SELECT descripcion FROM productos WHERE componentes LIKE '%967470%'
+[31/01/2025 13:31:05]31/01/2025 13:31:05>DELETE FROM productos WHERE (Codigo = '967470')
+[31/01/2025 13:31:09]31/01/2025 13:31:09>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '83333' 
+[31/01/2025 13:31:11]31/01/2025 13:31:11>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '83333' 
+[31/01/2025 13:31:11]31/01/2025 13:31:11>SELECT descripcion FROM productos WHERE componentes LIKE '%83333%'
+[31/01/2025 13:31:11]31/01/2025 13:31:11>SELECT descripcion FROM productos WHERE componentes LIKE '%83333%'
+[31/01/2025 13:31:11]31/01/2025 13:31:11>DELETE FROM productos WHERE (Codigo = '83333')
+[31/01/2025 13:31:19]31/01/2025 13:31:19>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '834199' 
+[31/01/2025 13:31:20]31/01/2025 13:31:20>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '834199' 
+[31/01/2025 13:31:20]31/01/2025 13:31:20>SELECT descripcion FROM productos WHERE componentes LIKE '%834199%'
+[31/01/2025 13:31:20]31/01/2025 13:31:20>SELECT descripcion FROM productos WHERE componentes LIKE '%834199%'
+[31/01/2025 13:31:20]31/01/2025 13:31:20>DELETE FROM productos WHERE (Codigo = '834199')
+[31/01/2025 13:31:24]31/01/2025 13:31:24>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '183222' 
+[31/01/2025 13:31:25]31/01/2025 13:31:25>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '183222' 
+[31/01/2025 13:31:25]31/01/2025 13:31:25>SELECT descripcion FROM productos WHERE componentes LIKE '%183222%'
+[31/01/2025 13:31:25]31/01/2025 13:31:25>SELECT descripcion FROM productos WHERE componentes LIKE '%183222%'
+[31/01/2025 13:31:25]31/01/2025 13:31:25>DELETE FROM productos WHERE (Codigo = '183222')
+[31/01/2025 13:31:29]31/01/2025 13:31:29>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '183222' 
+[31/01/2025 13:31:29]31/01/2025 13:31:29>[CLSPROD] - 404 -183222
+[31/01/2025 13:31:30]31/01/2025 13:31:30>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '990' 
+[31/01/2025 13:31:32]31/01/2025 13:31:32>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '990' 
+[31/01/2025 13:31:32]31/01/2025 13:31:32>SELECT descripcion FROM productos WHERE componentes LIKE '%990%'
+[31/01/2025 13:31:32]31/01/2025 13:31:32>SELECT descripcion FROM productos WHERE componentes LIKE '%990%'
+[31/01/2025 13:31:32]31/01/2025 13:31:32>DELETE FROM productos WHERE (Codigo = '990')
+[31/01/2025 13:31:36]31/01/2025 13:31:36>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '8,59184E+11' 
+[31/01/2025 13:31:36]31/01/2025 13:31:36>[CLSPROD] - 404 -8,59184E+11
+[31/01/2025 13:31:40]31/01/2025 13:31:40>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '534860' 
+[31/01/2025 13:31:42]31/01/2025 13:31:42>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '534860' 
+[31/01/2025 13:31:42]31/01/2025 13:31:42>SELECT descripcion FROM productos WHERE componentes LIKE '%534860%'
+[31/01/2025 13:31:42]31/01/2025 13:31:42>SELECT descripcion FROM productos WHERE componentes LIKE '%534860%'
+[31/01/2025 13:31:42]31/01/2025 13:31:42>DELETE FROM productos WHERE (Codigo = '534860')
+[31/01/2025 13:31:46]31/01/2025 13:31:46>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '471540' 
+[31/01/2025 13:31:47]31/01/2025 13:31:47>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '471540' 
+[31/01/2025 13:31:47]31/01/2025 13:31:47>SELECT descripcion FROM productos WHERE componentes LIKE '%471540%'
+[31/01/2025 13:31:48]31/01/2025 13:31:48>SELECT descripcion FROM productos WHERE componentes LIKE '%471540%'
+[31/01/2025 13:31:48]31/01/2025 13:31:48>DELETE FROM productos WHERE (Codigo = '471540')
+[31/01/2025 13:32:14]31/01/2025 13:32:14>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '859184004010' 
+[31/01/2025 13:32:16]31/01/2025 13:32:16>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '859184004010' 
+[31/01/2025 13:32:16]31/01/2025 13:32:16>SELECT descripcion FROM productos WHERE componentes LIKE '%859184004010%'
+[31/01/2025 13:32:16]31/01/2025 13:32:16>SELECT descripcion FROM productos WHERE componentes LIKE '%859184004010%'
+[31/01/2025 13:32:16]31/01/2025 13:32:16>DELETE FROM productos WHERE (Codigo = '859184004010')
+[31/01/2025 13:32:19]31/01/2025 13:32:19>PERMISO > Verificando permiso para inventario
+[31/01/2025 13:32:19]31/01/2025 13:32:19>PERMISO > Acceso permitido para inventario
+[31/01/2025 13:32:19]31/01/2025 13:32:19>SELECT id, nombre FROM departamentos
+[31/01/2025 13:32:19]31/01/2025 13:32:19>SELECT p.codigo, p.descripcion, p.pcosto, p.pventa, p.dinventario, p.dinvminimo, d.nombre as depto FROM productos p LEFT JOIN departamentos d ON p.dept = d.id WHERE dinventario <= dinvminimo AND dinventario > -1 AND (p.componentes = '' OR p.componentes IS NULL)
+[31/01/2025 13:32:19]31/01/2025 13:32:19>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:32:19]31/01/2025 13:32:19>Creando forma: TfrmInventario
+[31/01/2025 13:32:19]31/01/2025 13:32:19>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:32:21]31/01/2025 13:32:21>PERMISO > Verificando permiso para ventas
+[31/01/2025 13:32:21]31/01/2025 13:32:21>PERMISO > Acceso permitido para ventas
+[31/01/2025 13:32:23]31/01/2025 13:32:23>PERMISO > Verificando permiso para productos
+[31/01/2025 13:32:23]31/01/2025 13:32:23>PERMISO > Acceso permitido para productos
+[31/01/2025 13:32:23]31/01/2025 13:32:23>Creando forma: TfrmProductos
+[31/01/2025 13:32:26]31/01/2025 13:32:26>PERMISO > Verificando permiso para inventario
+[31/01/2025 13:32:26]31/01/2025 13:32:26>PERMISO > Acceso permitido para inventario
+[31/01/2025 13:32:27]31/01/2025 13:32:27>SELECT id, nombre FROM departamentos
+[31/01/2025 13:32:27]31/01/2025 13:32:27>SELECT p.codigo, p.descripcion, p.pcosto, p.pventa, p.dinventario, p.dinvminimo, d.nombre as depto FROM productos p LEFT JOIN departamentos d ON p.dept = d.id WHERE dinventario <= dinvminimo AND dinventario > -1 AND (p.componentes = '' OR p.componentes IS NULL)
+[31/01/2025 13:32:27]31/01/2025 13:32:27>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:32:27]31/01/2025 13:32:27>Creando forma: TfrmInventario
+[31/01/2025 13:32:27]31/01/2025 13:32:27>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:32:28]31/01/2025 13:32:28>PERMISO > Verificando permiso para inventario.reportes
+[31/01/2025 13:32:28]31/01/2025 13:32:28>PERMISO > Acceso permitido para inventario.reportes
+[31/01/2025 13:32:28]31/01/2025 13:32:28>SELECT codigo, descripcion, pcosto, pventa, mayoreo, dinventario, dinvminimo, dept FROM productos p  WHERE (p.componentes = '' OR p.componentes IS NULL)  ORDER BY p.descripcion
+[31/01/2025 13:32:34]31/01/2025 13:32:34>PERMISO > Verificando permiso para productos
+[31/01/2025 13:32:34]31/01/2025 13:32:34>PERMISO > Acceso permitido para productos
+[31/01/2025 13:32:34]31/01/2025 13:32:34>Creando forma: TfrmProductos
+[31/01/2025 13:32:36]31/01/2025 13:32:36>PERMISO > Verificando permiso para productos.eliminar
+[31/01/2025 13:32:36]31/01/2025 13:32:36>PERMISO > Acceso permitido para productos.eliminar
+[31/01/2025 13:32:38]31/01/2025 13:32:38>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '9500' 
+[31/01/2025 13:32:38]31/01/2025 13:32:38>[CLSPROD] - 404 -9500
+[31/01/2025 13:32:43]31/01/2025 13:32:43>PERMISO > Verificando permiso para inventario
+[31/01/2025 13:32:43]31/01/2025 13:32:43>PERMISO > Acceso permitido para inventario
+[31/01/2025 13:32:43]31/01/2025 13:32:43>SELECT id, nombre FROM departamentos
+[31/01/2025 13:32:43]31/01/2025 13:32:43>SELECT p.codigo, p.descripcion, p.pcosto, p.pventa, p.dinventario, p.dinvminimo, d.nombre as depto FROM productos p LEFT JOIN departamentos d ON p.dept = d.id WHERE dinventario <= dinvminimo AND dinventario > -1 AND (p.componentes = '' OR p.componentes IS NULL)
+[31/01/2025 13:32:43]31/01/2025 13:32:43>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:32:43]31/01/2025 13:32:43>Creando forma: TfrmInventario
+[31/01/2025 13:32:43]31/01/2025 13:32:43>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:32:44]31/01/2025 13:32:44>PERMISO > Verificando permiso para inventario.reportes
+[31/01/2025 13:32:44]31/01/2025 13:32:44>PERMISO > Acceso permitido para inventario.reportes
+[31/01/2025 13:32:44]31/01/2025 13:32:44>SELECT codigo, descripcion, pcosto, pventa, mayoreo, dinventario, dinvminimo, dept FROM productos p  WHERE (p.componentes = '' OR p.componentes IS NULL)  ORDER BY p.descripcion
+[31/01/2025 13:32:52]31/01/2025 13:32:52>PERMISO > Verificando permiso para ventas
+[31/01/2025 13:32:52]31/01/2025 13:32:52>PERMISO > Acceso permitido para ventas
+[31/01/2025 13:32:56]31/01/2025 13:32:56>PERMISO > Verificando permiso para configuracion
+[31/01/2025 13:32:56]31/01/2025 13:32:56>PERMISO > Acceso permitido para configuracion
+[31/01/2025 13:32:56]31/01/2025 13:32:56>SELECT valor FROM configuracion WHERE parametro = 'impuestos.usa' AND caja_id = -1
+[31/01/2025 13:32:56]31/01/2025 13:32:56>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.usa' AND caja_id = 1
+[31/01/2025 13:32:56]31/01/2025 13:32:56>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.valor' AND caja_id = 1
+[31/01/2025 13:32:56]31/01/2025 13:32:56>SELECT valor FROM configuracion WHERE parametro = 'impuestos.desglosar' AND caja_id = 1
+[31/01/2025 13:32:56]31/01/2025 13:32:56>[CONFIG-SCANNER] Device "COM1" Open Error !!!
+[31/01/2025 13:32:56]31/01/2025 13:32:56>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.usa' AND caja_id = 1
+[31/01/2025 13:32:56]31/01/2025 13:32:56>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.valor' AND caja_id = 1
+[31/01/2025 13:32:56]31/01/2025 13:32:56>Creando forma: TdlgConfig
+[31/01/2025 13:32:56]31/01/2025 13:32:56>PERMISO > Verificando permiso para inventario
+[31/01/2025 13:32:56]31/01/2025 13:32:56>PERMISO > Acceso permitido para inventario
+[31/01/2025 13:32:57]31/01/2025 13:32:57>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.usa' AND caja_id = 1
+[31/01/2025 13:32:57]31/01/2025 13:32:57>UPDATE configuracion SET valor = '1' WHERE parametro = 'porcentajeganancia.usa' AND caja_id = 1
+[31/01/2025 13:32:57]31/01/2025 13:32:57>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.valor' AND caja_id = 1
+[31/01/2025 13:32:57]31/01/2025 13:32:57>UPDATE configuracion SET valor = '20' WHERE parametro = 'porcentajeganancia.valor' AND caja_id = 1
+[31/01/2025 13:32:57]31/01/2025 13:32:57>SELECT valor FROM configuracion WHERE parametro = 'impuestos.usa' AND caja_id = -1
+[31/01/2025 13:32:57]31/01/2025 13:32:57>UPDATE configuracion SET valor = '0' WHERE parametro = 'impuestos.usa' AND caja_id = -1
+[31/01/2025 13:32:57]31/01/2025 13:32:57>SELECT valor FROM configuracion WHERE parametro = 'impuestos.desglosar' AND caja_id = 1
+[31/01/2025 13:32:57]31/01/2025 13:32:57>UPDATE configuracion SET valor = '1' WHERE parametro = 'impuestos.desglosar' AND caja_id = 1
+[31/01/2025 13:32:57]31/01/2025 13:32:57>SELECT valor FROM configuracion WHERE parametro = 'impuestos.usa' AND caja_id = -1
+[31/01/2025 13:32:57]31/01/2025 13:32:57>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.usa' AND caja_id = 1
+[31/01/2025 13:32:57]31/01/2025 13:32:57>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.valor' AND caja_id = 1
+[31/01/2025 13:32:57]31/01/2025 13:32:57>SELECT valor FROM configuracion WHERE parametro = 'impuestos.desglosar' AND caja_id = 1
+[31/01/2025 13:32:57]31/01/2025 13:32:57>SELECT id, nombre FROM departamentos
+[31/01/2025 13:32:57]31/01/2025 13:32:57>SELECT p.codigo, p.descripcion, p.pcosto, p.pventa, p.dinventario, p.dinvminimo, d.nombre as depto FROM productos p LEFT JOIN departamentos d ON p.dept = d.id WHERE dinventario <= dinvminimo AND dinventario > -1 AND (p.componentes = '' OR p.componentes IS NULL)
+[31/01/2025 13:32:57]31/01/2025 13:32:57>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:32:57]31/01/2025 13:32:57>Creando forma: TfrmInventario
+[31/01/2025 13:32:57]31/01/2025 13:32:57>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:32:58]31/01/2025 13:32:58>PERMISO > Verificando permiso para inventario.reportes
+[31/01/2025 13:32:58]31/01/2025 13:32:58>PERMISO > Acceso permitido para inventario.reportes
+[31/01/2025 13:32:59]31/01/2025 13:32:59>SELECT codigo, descripcion, pcosto, pventa, mayoreo, dinventario, dinvminimo, dept FROM productos p  WHERE (p.componentes = '' OR p.componentes IS NULL)  ORDER BY p.descripcion
+[31/01/2025 13:33:02]31/01/2025 13:33:02>PERMISO > Verificando permiso para productos.modificar
+[31/01/2025 13:33:02]31/01/2025 13:33:02>PERMISO > Acceso permitido para productos.modificar
+[31/01/2025 13:33:02]31/01/2025 13:33:02>PERMISO > Verificando permiso para productos.modificar
+[31/01/2025 13:33:02]31/01/2025 13:33:02>PERMISO > Acceso permitido para productos.modificar
+[31/01/2025 13:33:02]31/01/2025 13:33:02>Creando forma: TfrmProductos
+[31/01/2025 13:33:02]31/01/2025 13:33:02>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = ' 9500' 
+[31/01/2025 13:33:02]31/01/2025 13:33:02>UPDATE productos SET checado_en = '01/31/2025' WHERE codigo = ' 9500'
+[31/01/2025 13:33:21]31/01/2025 13:33:21>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = ' 9500' 
+[31/01/2025 13:33:21]31/01/2025 13:33:21>SELECT id FROM departamentos WHERE Lower(Nombre) = 'prueba'
+[31/01/2025 13:33:21]31/01/2025 13:33:21>UPDATE productos SET 
+[31/01/2025 13:33:21]31/01/2025 13:33:21>UPDATE productos SET dinventario = 1.0000 WHERE codigo = '1'
+[31/01/2025 13:33:21]31/01/2025 13:33:21>INSERT INTO historial_inventario (usuario_id, cuando_fue, tipo, habia, cantidad, codigo_producto, caja_id) VALUES  (7,'01/31/2025 13:33:21','a',0.0000,1.0000,'1',1)
+[31/01/2025 13:33:21]31/01/2025 13:33:21>UPDATE ventatickets_articulos SET producto_codigo = '1' , producto_nombre = 'Prueba', precio_usado = 9500.0000 WHERE producto_codigo = ' 9500' AND ticket_id IN (SELECT id FROM ventatickets WHERE esta_abierto = 't')
+[31/01/2025 13:33:25]31/01/2025 13:33:25>PERMISO > Verificando permiso para ventas
+[31/01/2025 13:33:25]31/01/2025 13:33:25>PERMISO > Acceso permitido para ventas
+[31/01/2025 13:33:26]31/01/2025 13:33:26>PERMISO > Verificando permiso para productos
+[31/01/2025 13:33:26]31/01/2025 13:33:26>PERMISO > Acceso permitido para productos
+[31/01/2025 13:33:27]31/01/2025 13:33:27>Creando forma: TfrmProductos
+[31/01/2025 13:33:28]31/01/2025 13:33:28>PERMISO > Verificando permiso para ventas
+[31/01/2025 13:33:28]31/01/2025 13:33:28>PERMISO > Acceso permitido para ventas
+[31/01/2025 13:33:30]31/01/2025 13:33:30>PERMISO > Verificando permiso para inventario
+[31/01/2025 13:33:30]31/01/2025 13:33:30>PERMISO > Acceso permitido para inventario
+[31/01/2025 13:33:30]31/01/2025 13:33:30>SELECT id, nombre FROM departamentos
+[31/01/2025 13:33:30]31/01/2025 13:33:30>SELECT p.codigo, p.descripcion, p.pcosto, p.pventa, p.dinventario, p.dinvminimo, d.nombre as depto FROM productos p LEFT JOIN departamentos d ON p.dept = d.id WHERE dinventario <= dinvminimo AND dinventario > -1 AND (p.componentes = '' OR p.componentes IS NULL)
+[31/01/2025 13:33:30]31/01/2025 13:33:30>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:33:30]31/01/2025 13:33:30>Creando forma: TfrmInventario
+[31/01/2025 13:33:30]31/01/2025 13:33:30>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:33:31]31/01/2025 13:33:31>PERMISO > Verificando permiso para productos
+[31/01/2025 13:33:31]31/01/2025 13:33:31>PERMISO > Acceso permitido para productos
+[31/01/2025 13:33:31]31/01/2025 13:33:31>Creando forma: TfrmProductos
+[31/01/2025 13:33:33]31/01/2025 13:33:33>PERMISO > Verificando permiso para inventario
+[31/01/2025 13:33:33]31/01/2025 13:33:33>PERMISO > Acceso permitido para inventario
+[31/01/2025 13:33:33]31/01/2025 13:33:33>SELECT id, nombre FROM departamentos
+[31/01/2025 13:33:33]31/01/2025 13:33:33>SELECT p.codigo, p.descripcion, p.pcosto, p.pventa, p.dinventario, p.dinvminimo, d.nombre as depto FROM productos p LEFT JOIN departamentos d ON p.dept = d.id WHERE dinventario <= dinvminimo AND dinventario > -1 AND (p.componentes = '' OR p.componentes IS NULL)
+[31/01/2025 13:33:33]31/01/2025 13:33:33>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:33:33]31/01/2025 13:33:33>Creando forma: TfrmInventario
+[31/01/2025 13:33:33]31/01/2025 13:33:33>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:33:34]31/01/2025 13:33:34>PERMISO > Verificando permiso para inventario.reportes
+[31/01/2025 13:33:34]31/01/2025 13:33:34>PERMISO > Acceso permitido para inventario.reportes
+[31/01/2025 13:33:34]31/01/2025 13:33:34>SELECT codigo, descripcion, pcosto, pventa, mayoreo, dinventario, dinvminimo, dept FROM productos p  WHERE (p.componentes = '' OR p.componentes IS NULL)  ORDER BY p.descripcion
+[31/01/2025 13:33:40]31/01/2025 13:33:40>PERMISO > Verificando permiso para inventario.reportes
+[31/01/2025 13:33:40]31/01/2025 13:33:40>PERMISO > Acceso permitido para inventario.reportes
+[31/01/2025 13:33:42]31/01/2025 13:33:42>PERMISO > Verificando permiso para productos
+[31/01/2025 13:33:42]31/01/2025 13:33:42>PERMISO > Acceso permitido para productos
+[31/01/2025 13:33:42]31/01/2025 13:33:42>Creando forma: TfrmProductos
+[31/01/2025 13:33:43]31/01/2025 13:33:43>PERMISO > Verificando permiso para inventario
+[31/01/2025 13:33:43]31/01/2025 13:33:43>PERMISO > Acceso permitido para inventario
+[31/01/2025 13:33:43]31/01/2025 13:33:43>SELECT id, nombre FROM departamentos
+[31/01/2025 13:33:43]31/01/2025 13:33:43>SELECT p.codigo, p.descripcion, p.pcosto, p.pventa, p.dinventario, p.dinvminimo, d.nombre as depto FROM productos p LEFT JOIN departamentos d ON p.dept = d.id WHERE dinventario <= dinvminimo AND dinventario > -1 AND (p.componentes = '' OR p.componentes IS NULL)
+[31/01/2025 13:33:43]31/01/2025 13:33:43>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:33:43]31/01/2025 13:33:43>Creando forma: TfrmInventario
+[31/01/2025 13:33:43]31/01/2025 13:33:43>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:33:44]31/01/2025 13:33:44>PERMISO > Verificando permiso para inventario.reportes
+[31/01/2025 13:33:44]31/01/2025 13:33:44>PERMISO > Acceso permitido para inventario.reportes
+[31/01/2025 13:33:44]31/01/2025 13:33:44>SELECT codigo, descripcion, pcosto, pventa, mayoreo, dinventario, dinvminimo, dept FROM productos p  WHERE (p.componentes = '' OR p.componentes IS NULL)  ORDER BY p.descripcion
+[31/01/2025 13:33:48]31/01/2025 13:33:48>PERMISO > Verificando permiso para ventas
+[31/01/2025 13:33:48]31/01/2025 13:33:48>PERMISO > Acceso permitido para ventas
+[31/01/2025 13:33:49]31/01/2025 13:33:49>PERMISO > Verificando permiso para productos
+[31/01/2025 13:33:49]31/01/2025 13:33:49>PERMISO > Acceso permitido para productos
+[31/01/2025 13:33:49]31/01/2025 13:33:49>Creando forma: TfrmProductos
+[31/01/2025 13:33:50]31/01/2025 13:33:50>PERMISO > Verificando permiso para productos.eliminar
+[31/01/2025 13:33:50]31/01/2025 13:33:50>PERMISO > Acceso permitido para productos.eliminar
+[31/01/2025 13:33:53]31/01/2025 13:33:53>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '1' 
+[31/01/2025 13:33:53]31/01/2025 13:33:53>SELECT p.*,d.nombre as departamento FROM productos p LEFT JOIN departamentos d ON (p.dept = d.id) WHERE upper(p.Codigo) = '1' 
+[31/01/2025 13:33:53]31/01/2025 13:33:53>SELECT descripcion FROM productos WHERE componentes LIKE '%1%'
+[31/01/2025 13:33:54]31/01/2025 13:33:54>SELECT descripcion FROM productos WHERE componentes LIKE '%1%'
+[31/01/2025 13:33:54]31/01/2025 13:33:54>DELETE FROM productos WHERE (Codigo = '1')
+[31/01/2025 13:34:00]31/01/2025 13:34:00>PERMISO > Verificando permiso para ventas
+[31/01/2025 13:34:00]31/01/2025 13:34:00>PERMISO > Acceso permitido para ventas
+[31/01/2025 13:34:01]31/01/2025 13:34:01>PERMISO > Verificando permiso para inventario
+[31/01/2025 13:34:01]31/01/2025 13:34:01>PERMISO > Acceso permitido para inventario
+[31/01/2025 13:34:01]31/01/2025 13:34:01>SELECT id, nombre FROM departamentos
+[31/01/2025 13:34:01]31/01/2025 13:34:01>SELECT p.codigo, p.descripcion, p.pcosto, p.pventa, p.dinventario, p.dinvminimo, d.nombre as depto FROM productos p LEFT JOIN departamentos d ON p.dept = d.id WHERE dinventario <= dinvminimo AND dinventario > -1 AND (p.componentes = '' OR p.componentes IS NULL)
+[31/01/2025 13:34:01]31/01/2025 13:34:01>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:34:01]31/01/2025 13:34:01>Creando forma: TfrmInventario
+[31/01/2025 13:34:01]31/01/2025 13:34:01>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 13:34:02]31/01/2025 13:34:02>PERMISO > Verificando permiso para inventario.reportes
+[31/01/2025 13:34:02]31/01/2025 13:34:02>PERMISO > Acceso permitido para inventario.reportes
+[31/01/2025 13:34:02]31/01/2025 13:34:02>SELECT codigo, descripcion, pcosto, pventa, mayoreo, dinventario, dinvminimo, dept FROM productos p  WHERE (p.componentes = '' OR p.componentes IS NULL)  ORDER BY p.descripcion
+[31/01/2025 13:34:17]31/01/2025 13:34:17>PERMISO > Verificando permiso para reportes.historialinventarios
+[31/01/2025 13:34:17]31/01/2025 13:34:17>PERMISO > Acceso permitido para reportes.historialinventarios
+[31/01/2025 13:34:17]31/01/2025 13:34:17>SELECT h.*,p.descripcion AS descripcion,u.nombre_completo AS cajero, d.nombre as nombre_depto FROM historial_inventario h  LEFT JOIN productos p ON h.codigo_producto = p.codigo LEFT JOIN usuarios u  ON h.usuario_id = u.id LEFT JOIN departamentos d ON p.dept = d.id  WHERE caja_id = 1 AND CAST(cuando_fue AS DATE) = '01/31/2025'  ORDER BY cuando_fue DESC
+[31/01/2025 13:34:33]31/01/2025 13:34:33>PERMISO > Verificando permiso para ventas
+[31/01/2025 13:34:33]31/01/2025 13:34:33>PERMISO > Acceso permitido para ventas
+[31/01/2025 13:34:41]31/01/2025 13:34:41>PERMISO > Verificando permiso para productos
+[31/01/2025 13:34:41]31/01/2025 13:34:41>PERMISO > Acceso permitido para productos
+[31/01/2025 13:34:41]31/01/2025 13:34:41>Creando forma: TfrmProductos
+[31/01/2025 13:34:43]31/01/2025 13:34:43>PERMISO > Verificando permiso para productos.crear
+[31/01/2025 13:34:43]31/01/2025 13:34:43>PERMISO > Acceso permitido para productos.crear
+[31/01/2025 13:34:43]31/01/2025 13:34:43>SELECT * FROM departamentos WHERE activo = 1 ORDER BY nombre
+[31/01/2025 13:34:46]31/01/2025 13:34:46>SELECT * FROM departamentos WHERE id = 12
+[31/01/2025 13:34:48]31/01/2025 13:34:48>SELECT nombre FROM departamentos WHERE id = 12
+[31/01/2025 13:34:48]31/01/2025 13:34:48>UPDATE departamentos SET nombre = 'ACERO (Eliminado 31/01/2025)', activo = 0 WHERE id = 12
+[31/01/2025 13:34:48]31/01/2025 13:34:48>SELECT * FROM departamentos WHERE activo = 1 ORDER BY nombre
+[31/01/2025 13:35:56]31/01/2025 13:35:56>SELECT COUNT(id) as cuantos FROM ventatickets WHERE esta_abierto = 't'  AND id IN (SELECT vt.id FROM ventatickets vt LEFT JOIN ventatickets_articulos a ON vt.id = a.ticket_id WHERE vt.caja_id = 1 GROUP BY vt.id HAVING COUNT(a.id) > 0)
+[31/01/2025 13:35:56]31/01/2025 13:35:56>DELETE FROM ventatickets WHERE esta_abierto = 't'  AND id IN (SELECT vt.id FROM ventatickets vt LEFT JOIN ventatickets_articulos a ON vt.id = a.ticket_id WHERE vt.caja_id = 1 GROUP BY vt.id HAVING COUNT(a.id) = 0)
+[31/01/2025 13:35:59]31/01/2025 13:35:59>Se termino sistema de tickets/respaldo, saliendo del sistema...
+[31/01/2025 14:30:36]31/01/2025 14:30:36>SELECT version_db FROM schema_info
+[31/01/2025 14:30:36]31/01/2025 14:30:36>SELECT * FROM cajas WHERE UPPER(nombre_pc) = 'LAPTOP-PJJB6EGA'
+[31/01/2025 14:30:36]31/01/2025 14:30:36>SELECT id FROM cajas WHERE UPPER(nombre) = 'CAJA PRINCIPAL'
+[31/01/2025 14:30:36]31/01/2025 14:30:36>SELECT * FROM cajas WHERE id = 1
+[31/01/2025 14:30:36]31/01/2025 14:30:36>UPDATE cajas SET nombre = 'Caja Principal', nombre_pc = 'LAPTOP-PJJB6EGA', ultima_ip = '192.168.0.12' WHERE id = 1
+[31/01/2025 14:30:36]31/01/2025 14:30:36>UPDATE cajas SET ultima_ip = '192.168.0.12', ultimo_ingreso = '01/31/2025 14:30:36' WHERE id = 1
+[31/01/2025 14:30:36]31/01/2025 14:30:36>UPDATE usuarios SET esta_en_caja_id = NULL WHERE esta_en_caja_id = 1
+[31/01/2025 14:30:36]31/01/2025 14:30:36>SELECT valor FROM configuracion WHERE parametro = 'impuestos.usa' AND caja_id = -1
+[31/01/2025 14:30:36]31/01/2025 14:30:36>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.usa' AND caja_id = 1
+[31/01/2025 14:30:36]31/01/2025 14:30:36>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.valor' AND caja_id = 1
+[31/01/2025 14:30:36]31/01/2025 14:30:36>SELECT valor FROM configuracion WHERE parametro = 'impuestos.desglosar' AND caja_id = 1
+[31/01/2025 14:30:36]31/01/2025 14:30:36>[CONFIG-SCANNER] Device "COM1" Open Error !!!
+[31/01/2025 14:30:36]31/01/2025 14:30:36>[CONFIG-SCANNER] Device "COM1" Open Error !!!
+[31/01/2025 14:30:37]31/01/2025 14:30:37>SELECT usuario,clave,nombre_completo,direccion FROM usuarios WHERE activo = 1
+[31/01/2025 14:30:47]31/01/2025 14:30:47>SELECT u.*, c.nombre as nombre_caja, c.id as caja_id FROM usuarios u LEFT JOIN cajas c ON u.esta_en_caja_id = c.id  WHERE u.Usuario = 'admin'
+[31/01/2025 14:30:47]31/01/2025 14:30:47>SELECT * FROM usuarios WHERE activo = 1 AND id = 7
+[31/01/2025 14:30:47]31/01/2025 14:30:47>UPDATE usuarios SET esta_en_caja_id = 1 WHERE id = 7
+[31/01/2025 14:30:47]31/01/2025 14:30:47>PERMISO > Verificando permiso para ventas
+[31/01/2025 14:30:47]31/01/2025 14:30:47>PERMISO > Acceso permitido para ventas
+[31/01/2025 14:30:48]31/01/2025 14:30:48>SELECT Folio,Nombre FROM clientes
+[31/01/2025 14:30:48]31/01/2025 14:30:48>SELECT id, nombre FROM departamentos WHERE activo = 1 ORDER BY nombre
+[31/01/2025 14:30:48]31/01/2025 14:30:48>SELECT id, nombre_completo FROM usuarios WHERE activo = 1 ORDER BY nombre_completo
+[31/01/2025 14:30:48]31/01/2025 14:30:48>SELECT Count(codigo) as cuenta FROM productos
+[31/01/2025 14:30:48]31/01/2025 14:30:48>SELECT FIRST 1 inicio_en FROM operaciones ORDER BY inicio_en ASC
+[31/01/2025 14:30:48]31/01/2025 14:30:48>SELECT COUNT(id) as cuenta FROM operaciones WHERE  caja_id = 1 AND abierta = 't'
+[31/01/2025 14:30:48]31/01/2025 14:30:48>SELECT * FROM operaciones WHERE  caja_id = 1 AND abierta = 't'
+[31/01/2025 14:30:50]31/01/2025 14:30:50>SELECT COUNT(id) as cuantos FROM ventatickets WHERE esta_abierto = 't'  AND id IN (SELECT vt.id FROM ventatickets vt LEFT JOIN ventatickets_articulos a ON vt.id = a.ticket_id WHERE vt.caja_id = 1 GROUP BY vt.id HAVING COUNT(a.id) > 0)
+[31/01/2025 14:30:50]31/01/2025 14:30:50>SELECT COUNT(id) as cuenta FROM ventatickets WHERE caja_id = 1 AND esta_abierto = 't'
+[31/01/2025 14:30:50]31/01/2025 14:30:50>SELECT COUNT(id) as cuenta FROM ventatickets WHERE caja_id = 1 AND esta_abierto = 't' AND Nombre = 'Ticket 1' AND esta_cancelado = 'f'
+[31/01/2025 14:30:50]31/01/2025 14:30:50>INSERT INTO ventatickets (id,caja_id, cajero_id, creado_en, nombre, operacion_id) 
+[31/01/2025 14:30:50]31/01/2025 14:30:50>SELECT COUNT(codigo) as CUENTA FROM productos WHERE (dinventario <= dinvminimo) AND (dinventario > -1)
+[31/01/2025 14:30:50]31/01/2025 14:30:50>SELECT valor FROM configuracion WHERE parametro = 'facturacion.emisor_id' AND caja_id = -1
+[31/01/2025 14:30:50]31/01/2025 14:30:50>SELECT valor FROM configuracion WHERE parametro = 'facturacion.certificado_id' AND caja_id = -1
+[31/01/2025 14:30:50]31/01/2025 14:30:50>SELECT valor FROM configuracion WHERE parametro = 'facturacion.folios_id' AND caja_id = 1
+[31/01/2025 14:30:50]31/01/2025 14:30:50>SELECT valor FROM configuracion WHERE parametro = 'facturacion.impresora_carta' AND caja_id = 1
+[31/01/2025 14:30:50]31/01/2025 14:30:50>SELECT valor FROM configuracion WHERE parametro = 'facturacion.emisor_correo' AND caja_id = -1
+[31/01/2025 14:30:50]31/01/2025 14:30:50>SELECT valor FROM configuracion WHERE parametro = 'facturacion.emisor_correo_clave' AND caja_id = -1
+[31/01/2025 14:30:50]31/01/2025 14:30:50>SELECT valor FROM configuracion WHERE parametro = 'facturacion.logotipo' AND caja_id = 1
+[31/01/2025 14:30:50]31/01/2025 14:30:50>SELECT valor FROM configuracion WHERE parametro = 'facturacion.configurada' AND caja_id = -1
+[31/01/2025 14:30:50]31/01/2025 14:30:50>SELECT valor FROM configuracion WHERE parametro = 'facturacion.comienzo' AND caja_id = -1
+[31/01/2025 14:30:53]31/01/2025 14:30:53>PERMISO > Verificando permiso para inventario
+[31/01/2025 14:30:53]31/01/2025 14:30:53>PERMISO > Acceso permitido para inventario
+[31/01/2025 14:30:53]31/01/2025 14:30:53>SELECT id, nombre FROM departamentos
+[31/01/2025 14:30:53]31/01/2025 14:30:53>SELECT p.codigo, p.descripcion, p.pcosto, p.pventa, p.dinventario, p.dinvminimo, d.nombre as depto FROM productos p LEFT JOIN departamentos d ON p.dept = d.id WHERE dinventario <= dinvminimo AND dinventario > -1 AND (p.componentes = '' OR p.componentes IS NULL)
+[31/01/2025 14:30:53]31/01/2025 14:30:53>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 14:30:53]31/01/2025 14:30:53>Creando forma: TfrmInventario
+[31/01/2025 14:30:54]31/01/2025 14:30:54>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+[31/01/2025 14:30:55]31/01/2025 14:30:55>PERMISO > Verificando permiso para inventario.reportes
+[31/01/2025 14:30:55]31/01/2025 14:30:55>PERMISO > Acceso permitido para inventario.reportes
+[31/01/2025 14:30:55]31/01/2025 14:30:55>SELECT codigo, descripcion, pcosto, pventa, mayoreo, dinventario, dinvminimo, dept FROM productos p  WHERE (p.componentes = '' OR p.componentes IS NULL)  ORDER BY p.descripcion
+[31/01/2025 14:31:06]31/01/2025 14:31:06>SELECT COUNT(id) as cuantos FROM ventatickets WHERE esta_abierto = 't'  AND id IN (SELECT vt.id FROM ventatickets vt LEFT JOIN ventatickets_articulos a ON vt.id = a.ticket_id WHERE vt.caja_id = 1 GROUP BY vt.id HAVING COUNT(a.id) > 0)
+[31/01/2025 14:31:06]31/01/2025 14:31:06>DELETE FROM ventatickets WHERE esta_abierto = 't'  AND id IN (SELECT vt.id FROM ventatickets vt LEFT JOIN ventatickets_articulos a ON vt.id = a.ticket_id WHERE vt.caja_id = 1 GROUP BY vt.id HAVING COUNT(a.id) = 0)
+[31/01/2025 14:31:14]31/01/2025 14:31:14>Se termino sistema de tickets/respaldo, saliendo del sistema...
+[31/01/2025 14:34:28]31/01/2025 14:34:28>SELECT version_db FROM schema_info
+
+[31/01/2025 14:34:28]31/01/2025 14:34:28>SELECT * FROM cajas WHERE UPPER(nombre_pc) = 'LAPTOP-PJJB6EGA'
+
+[31/01/2025 14:34:28]31/01/2025 14:34:28>UPDATE cajas SET ultima_ip = '192.168.0.12', ultimo_ingreso = '01/31/2025 14:34:28' WHERE id = 1
+
+[31/01/2025 14:34:28]31/01/2025 14:34:28>UPDATE usuarios SET esta_en_caja_id = NULL WHERE esta_en_caja_id = 1
+
+[31/01/2025 14:34:28]31/01/2025 14:34:28>SELECT valor FROM configuracion WHERE parametro = 'impuestos.usa' AND caja_id = -1
+
+[31/01/2025 14:34:28]31/01/2025 14:34:28>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.usa' AND caja_id = 1
+
+[31/01/2025 14:34:28]31/01/2025 14:34:28>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.valor' AND caja_id = 1
+
+[31/01/2025 14:34:28]31/01/2025 14:34:28>SELECT valor FROM configuracion WHERE parametro = 'impuestos.desglosar' AND caja_id = 1
+
+[31/01/2025 14:34:29]31/01/2025 14:34:29>[CONFIG-SCANNER] Device "COM1" Open Error !!!El sistema no puede encontrar el archivo especificado
+[31/01/2025 14:34:29]31/01/2025 14:34:29>[CONFIG-SCANNER] Device "COM1" Open Error !!!El sistema no puede encontrar el archivo especificado
+[31/01/2025 14:34:29]31/01/2025 14:34:29>SELECT usuario,clave,nombre_completo,direccion FROM usuarios WHERE activo = 1
+
+[31/01/2025 14:34:35]31/01/2025 14:34:35>SELECT u.*, c.nombre as nombre_caja, c.id as caja_id FROM usuarios u LEFT JOIN cajas c ON u.esta_en_caja_id = c.id  WHERE u.Usuario = 'admin'
+
+[31/01/2025 14:34:35]31/01/2025 14:34:35>SELECT * FROM usuarios WHERE activo = 1 AND id = 7
+
+[31/01/2025 14:34:35]31/01/2025 14:34:35>UPDATE usuarios SET esta_en_caja_id = 1 WHERE id = 7
+
+[31/01/2025 14:34:35]31/01/2025 14:34:35>PERMISO > Verificando permiso para ventas
+[31/01/2025 14:34:35]31/01/2025 14:34:35>PERMISO > Acceso permitido para ventas
+[31/01/2025 14:34:36]31/01/2025 14:34:36>SELECT Folio,Nombre FROM clientes
+
+[31/01/2025 14:34:36]31/01/2025 14:34:36>SELECT id, nombre FROM departamentos WHERE activo = 1 ORDER BY nombre
+
+[31/01/2025 14:34:36]31/01/2025 14:34:36>SELECT id, nombre_completo FROM usuarios WHERE activo = 1 ORDER BY nombre_completo
+
+[31/01/2025 14:34:36]31/01/2025 14:34:36>SELECT Count(codigo) as cuenta FROM productos
+
+[31/01/2025 14:34:36]31/01/2025 14:34:36>SELECT FIRST 1 inicio_en FROM operaciones ORDER BY inicio_en ASC
+
+[31/01/2025 14:34:36]31/01/2025 14:34:36>SELECT COUNT(id) as cuenta FROM operaciones WHERE  caja_id = 1 AND abierta = 't'
+
+[31/01/2025 14:34:36]31/01/2025 14:34:36>SELECT * FROM operaciones WHERE  caja_id = 1 AND abierta = 't'
+
+[31/01/2025 14:34:37]31/01/2025 14:34:37>SELECT COUNT(id) as cuantos FROM ventatickets WHERE esta_abierto = 't'  AND id IN (SELECT vt.id FROM ventatickets vt LEFT JOIN ventatickets_articulos a ON vt.id = a.ticket_id WHERE vt.caja_id = 1 GROUP BY vt.id HAVING COUNT(a.id) > 0)
+
+[31/01/2025 14:34:37]31/01/2025 14:34:37>SELECT COUNT(id) as cuenta FROM ventatickets WHERE caja_id = 1 AND esta_abierto = 't'
+
+[31/01/2025 14:34:37]31/01/2025 14:34:37>SELECT COUNT(id) as cuenta FROM ventatickets WHERE caja_id = 1 AND esta_abierto = 't' AND Nombre = 'Ticket 1' AND esta_cancelado = 'f'
+
+[31/01/2025 14:34:37]31/01/2025 14:34:37>INSERT INTO ventatickets (id,caja_id, cajero_id, creado_en, nombre, operacion_id) 
+ VALUES(380,1,7,CURRENT_TIMESTAMP,'Ticket 1',118)
+
+[31/01/2025 14:34:37]31/01/2025 14:34:37>SELECT COUNT(codigo) as CUENTA FROM productos WHERE (dinventario <= dinvminimo) AND (dinventario > -1)
+
+[31/01/2025 14:34:38]31/01/2025 14:34:38>SELECT valor FROM configuracion WHERE parametro = 'facturacion.emisor_id' AND caja_id = -1
+
+[31/01/2025 14:34:38]31/01/2025 14:34:38>SELECT valor FROM configuracion WHERE parametro = 'facturacion.certificado_id' AND caja_id = -1
+
+[31/01/2025 14:34:38]31/01/2025 14:34:38>SELECT valor FROM configuracion WHERE parametro = 'facturacion.folios_id' AND caja_id = 1
+
+[31/01/2025 14:34:38]31/01/2025 14:34:38>SELECT valor FROM configuracion WHERE parametro = 'facturacion.impresora_carta' AND caja_id = 1
+
+[31/01/2025 14:34:38]31/01/2025 14:34:38>SELECT valor FROM configuracion WHERE parametro = 'facturacion.emisor_correo' AND caja_id = -1
+
+[31/01/2025 14:34:38]31/01/2025 14:34:38>SELECT valor FROM configuracion WHERE parametro = 'facturacion.emisor_correo_clave' AND caja_id = -1
+
+[31/01/2025 14:34:38]31/01/2025 14:34:38>SELECT valor FROM configuracion WHERE parametro = 'facturacion.logotipo' AND caja_id = 1
+
+[31/01/2025 14:34:38]31/01/2025 14:34:38>SELECT valor FROM configuracion WHERE parametro = 'facturacion.configurada' AND caja_id = -1
+
+[31/01/2025 14:34:38]31/01/2025 14:34:38>SELECT valor FROM configuracion WHERE parametro = 'facturacion.comienzo' AND caja_id = -1
+
+[31/01/2025 14:35:33]31/01/2025 14:35:33>PERMISO > Verificando permiso para clientes
+[31/01/2025 14:35:33]31/01/2025 14:35:33>PERMISO > Acceso permitido para clientes
+[31/01/2025 14:35:33]31/01/2025 14:35:33>Creando forma: TfrmClientes
+[31/01/2025 14:35:38]31/01/2025 14:35:38>PERMISO > Verificando permiso para ventas
+[31/01/2025 14:35:38]31/01/2025 14:35:38>PERMISO > Acceso permitido para ventas
+[31/01/2025 14:35:42]31/01/2025 14:35:42>PERMISO > Verificando permiso para configuracion
+[31/01/2025 14:35:42]31/01/2025 14:35:42>PERMISO > Acceso permitido para configuracion
+[31/01/2025 14:35:43]31/01/2025 14:35:43>SELECT valor FROM configuracion WHERE parametro = 'impuestos.usa' AND caja_id = -1
+
+[31/01/2025 14:35:43]31/01/2025 14:35:43>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.usa' AND caja_id = 1
+
+[31/01/2025 14:35:43]31/01/2025 14:35:43>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.valor' AND caja_id = 1
+
+[31/01/2025 14:35:43]31/01/2025 14:35:43>SELECT valor FROM configuracion WHERE parametro = 'impuestos.desglosar' AND caja_id = 1
+
+[31/01/2025 14:35:43]31/01/2025 14:35:43>[CONFIG-SCANNER] Device "COM1" Open Error !!!El sistema no puede encontrar el archivo especificado
+[31/01/2025 14:35:43]31/01/2025 14:35:43>[CONFIG-SCANNER] Device "COM1" Open Error !!!El sistema no puede encontrar el archivo especificado
+[31/01/2025 14:35:43]31/01/2025 14:35:43>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.usa' AND caja_id = 1
+
+[31/01/2025 14:35:43]31/01/2025 14:35:43>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.valor' AND caja_id = 1
+
+[31/01/2025 14:35:43]31/01/2025 14:35:43>Creando forma: TdlgConfig
+[31/01/2025 14:36:46]31/01/2025 14:36:46>PERMISO > Verificando permiso para inventario
+[31/01/2025 14:36:46]31/01/2025 14:36:46>PERMISO > Acceso permitido para inventario
+[31/01/2025 14:36:46]31/01/2025 14:36:46>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.usa' AND caja_id = 1
+
+[31/01/2025 14:36:46]31/01/2025 14:36:46>UPDATE configuracion SET valor = '1' WHERE parametro = 'porcentajeganancia.usa' AND caja_id = 1
+
+[31/01/2025 14:36:46]31/01/2025 14:36:46>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.valor' AND caja_id = 1
+
+[31/01/2025 14:36:46]31/01/2025 14:36:46>UPDATE configuracion SET valor = '20' WHERE parametro = 'porcentajeganancia.valor' AND caja_id = 1
+
+[31/01/2025 14:36:46]31/01/2025 14:36:46>SELECT valor FROM configuracion WHERE parametro = 'impuestos.usa' AND caja_id = -1
+
+[31/01/2025 14:36:46]31/01/2025 14:36:46>UPDATE configuracion SET valor = '0' WHERE parametro = 'impuestos.usa' AND caja_id = -1
+
+[31/01/2025 14:36:46]31/01/2025 14:36:46>SELECT valor FROM configuracion WHERE parametro = 'impuestos.desglosar' AND caja_id = 1
+
+[31/01/2025 14:36:46]31/01/2025 14:36:46>UPDATE configuracion SET valor = '1' WHERE parametro = 'impuestos.desglosar' AND caja_id = 1
+
+[31/01/2025 14:36:46]31/01/2025 14:36:46>SELECT valor FROM configuracion WHERE parametro = 'impuestos.usa' AND caja_id = -1
+
+[31/01/2025 14:36:46]31/01/2025 14:36:46>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.usa' AND caja_id = 1
+
+[31/01/2025 14:36:46]31/01/2025 14:36:46>SELECT valor FROM configuracion WHERE parametro = 'porcentajeganancia.valor' AND caja_id = 1
+
+[31/01/2025 14:36:46]31/01/2025 14:36:46>SELECT valor FROM configuracion WHERE parametro = 'impuestos.desglosar' AND caja_id = 1
+
+[31/01/2025 14:36:46]31/01/2025 14:36:46>[CONFIG-SCANNER] Device "COM1" Open Error !!!El sistema no puede encontrar el archivo especificado
+[31/01/2025 14:36:47]31/01/2025 14:36:47>SELECT id, nombre FROM departamentos
+
+[31/01/2025 14:36:47]31/01/2025 14:36:47>SELECT p.codigo, p.descripcion, p.pcosto, p.pventa, p.dinventario, p.dinvminimo, d.nombre as depto FROM productos p LEFT JOIN departamentos d ON p.dept = d.id WHERE dinventario <= dinvminimo AND dinventario > -1 AND (p.componentes = '' OR p.componentes IS NULL)
+
+[31/01/2025 14:36:47]31/01/2025 14:36:47>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+
+[31/01/2025 14:36:47]31/01/2025 14:36:47>Creando forma: TfrmInventario
+[31/01/2025 14:36:47]31/01/2025 14:36:47>SELECT * FROM cajas WHERE nombre_pc IS NOT NULL ORDER BY nombre
+
+[31/01/2025 14:36:49]31/01/2025 14:36:49>PERMISO > Verificando permiso para inventario.reportes
+[31/01/2025 14:36:49]31/01/2025 14:36:49>PERMISO > Acceso permitido para inventario.reportes
+[31/01/2025 14:36:49]31/01/2025 14:36:49>SELECT codigo, descripcion, pcosto, pventa, mayoreo, dinventario, dinvminimo, dept FROM productos p  WHERE (p.componentes = '' OR p.componentes IS NULL)  ORDER BY p.descripcion
+
+[31/01/2025 14:36:51]31/01/2025 14:36:51>PERMISO > Verificando permiso para productos
+[31/01/2025 14:36:51]31/01/2025 14:36:51>PERMISO > Acceso permitido para productos
+[31/01/2025 14:36:52]31/01/2025 14:36:52>Creando forma: TfrmProductos
+[31/01/2025 14:37:19]31/01/2025 14:37:19>PERMISO > Verificando permiso para ventas
+[31/01/2025 14:37:19]31/01/2025 14:37:19>PERMISO > Acceso permitido para ventas
+[31/01/2025 14:37:26]31/01/2025 14:37:26>SELECT COUNT(id) as cuantos FROM ventatickets WHERE esta_abierto = 't'  AND id IN (SELECT vt.id FROM ventatickets vt LEFT JOIN ventatickets_articulos a ON vt.id = a.ticket_id WHERE vt.caja_id = 1 GROUP BY vt.id HAVING COUNT(a.id) > 0)
+
+[31/01/2025 14:37:26]31/01/2025 14:37:26>DELETE FROM ventatickets WHERE esta_abierto = 't'  AND id IN (SELECT vt.id FROM ventatickets vt LEFT JOIN ventatickets_articulos a ON vt.id = a.ticket_id WHERE vt.caja_id = 1 GROUP BY vt.id HAVING COUNT(a.id) = 0)
+
+[31/01/2025 14:37:27]31/01/2025 14:37:27>Se termino sistema de tickets/respaldo, saliendo del sistema...
