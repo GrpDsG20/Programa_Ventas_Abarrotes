@@ -1,4 +1,4 @@
-Programa completo para Ventas de Abarrotes
+J9Programa completo para Ventas de Abarrotes
 
 ✅ Gestión de Ventas (registro de compras, descuentos, múltiples métodos de pago).
 ✅ Escáner de Código de Barras (para facilitar la venta de productos).
@@ -20,7 +20,4 @@ Programa completo para Ventas de Abarrotes
 El sistema es intuitivo, IMBOX y te envío los videos
 
 ![Image](https://github.com/user-attachments/assets/2e0e3c40-9b48-458d-a8aa-ac8d6ac793f1)
-
-User:Admin
-Pass:1677
 
